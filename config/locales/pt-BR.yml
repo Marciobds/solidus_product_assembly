@@ -1,0 +1,14 @@
+---
+pt-BR:
+  spree:
+    available_parts: Peças disponíveis
+    can_be_part: Pode fazer parte
+    individual_sale: Venda individual
+    no_variants: Sem variantes
+    parts: Peças
+    assembly_cannot_be_part: montagem não pode ser parte
+    product_bundles: Pacotes de Produtos
+    parts_included: Peças incluídas
+    part_of_bundle: 'Parte do pacote %{sku}'
+    actions:
+      delete: 'Deletado'
